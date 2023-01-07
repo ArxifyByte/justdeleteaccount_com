@@ -6259,5 +6259,13 @@
             "description":"You cannot delete your Typefully account.",
             "domain":"typefully.com",
             "deletemail":null
+         },
+	 {
+            "name":"Any.run",
+            "deleteurl":"https://app.any.run/profile",
+            "difficulty":"easy",
+            "description":"Log in and press on the Delete Account button.",
+            "domain":"any.run",
+            "deletemail":null
          }
 ]
